@@ -1,13 +1,15 @@
 {
   "name": "merveille.digital",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "@material-ui/core": "^4.10.0",
+    "firebase": "^7.14.6",
+    "node-sass": "^4.14.1",
+    "react": "0.0.0-experimental-33c3af284",
+    "react-dom": "0.0.0-experimental-33c3af284",
+    "react-router": "0.0.0-experimental-b1ff171f",
+    "react-router-dom": "0.0.0-experimental-b1ff171f",
     "react-scripts": "3.4.1"
   },
   "scripts": {
